@@ -19,7 +19,7 @@ child pointer.
 ## Program:
 
 Program to insert the elements in the binary search tree
-# Developed by: Jayvarthan P
+# Developed by: Jayavarthan P
 # RegisterNumber: 212222100015
 
 ```
